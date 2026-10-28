@@ -7,7 +7,7 @@ This repository contains all practical assignments for the subject **Programming
 **Program**: ADS-CS  
 **Institution**: Govt. Graduate College Mianwali  
 
-### 📚 Assignment #1: Basic Formulas Program
+### 📚 Assignment #1: Formula-Based Programs
 This assignment implements basic physics and mathematical formulas in C++.
 ---
 **Programs Included**:
