@@ -10,7 +10,7 @@ int main()
     cin >> vf;
     cout << "Enter Acceleration" << endl;
     cin >> a;
-    S = (vf*vf - vi*vi)/ (2*a);
+    S = (vf*vf - vi*vi) / (2*a);
     cout << "Distance = S = " << S;
     return 0;
 }
