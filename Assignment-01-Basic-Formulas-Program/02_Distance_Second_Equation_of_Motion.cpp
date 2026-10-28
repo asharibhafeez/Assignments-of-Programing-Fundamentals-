@@ -11,6 +11,6 @@ int main()
     cout << "Enter Time" << endl;
     cin >> t;
     S = vi*t+1/2*a*t*t;
-    cout << " S =" << S;
+    cout << " S = " << S;
     return 0;
 }
