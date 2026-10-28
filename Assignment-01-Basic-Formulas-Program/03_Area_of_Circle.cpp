@@ -7,6 +7,6 @@ int main()
     cout << "Radius of Circle" << endl;
     cin >> r;
     circumference = pi*r*r;
-    cout << "Circumference of Circle =" << circumference;
+    cout << "Circumference of Circle = " << circumference;
     return 0;
 }
