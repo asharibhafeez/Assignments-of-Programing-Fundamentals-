@@ -1,4 +1,4 @@
-# Assignment #1: Basic Formulas Program
+# Assignment #1: Formula-Based Programs
 
 This folder contains Assignment #1 for Programming Fundamentals.
 
