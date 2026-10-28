@@ -11,6 +11,6 @@ int main()
     cout << "Enter Acceleration" << endl;
     cin >> a;
     S = (vf*vf - vi*vi)/ (2*a);
-    cout << "Distance = S =" << S;
+    cout << "Distance = S = " << S;
     return 0;
 }
