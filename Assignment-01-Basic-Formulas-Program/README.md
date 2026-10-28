@@ -11,7 +11,7 @@ This folder contains Assignment #1 for Programming Fundamentals.
    2.  **02_Distance_Second_Equation_of_Motion.cpp**
          - Formula: S = vi*t + 1/2 * a*t²
 
-   3.  **03_Area_of_Circle.cpp**
+   3.  **03_Circumference_of_Circle.cpp**
          - Formula: C = πr²
 
 **Language:** C++
