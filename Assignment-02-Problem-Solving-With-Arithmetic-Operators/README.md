@@ -4,7 +4,9 @@ This folder contains Assignment #02 for Programming Fundamentals.
 All programs are solved using only **Arithmetic Operators** without using if-else, loops, or built-in functions.
 
 **Total Programs:** 10
+
 **Status:** Completed & Tested - 31-10-2026
+
 **Language:** C++
 
 ---
