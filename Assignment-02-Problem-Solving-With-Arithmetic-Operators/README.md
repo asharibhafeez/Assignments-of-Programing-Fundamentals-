@@ -13,46 +13,46 @@ All programs are solved using only **Arithmetic Operators** without using if-els
 
 ### Programs List:
 
-1.  **01_Shopping_Bill.cpp**
+ *  **01_Shopping_Bill.cpp**
     - Calculates the total bill amount of purchased items
     - Formula: `Total Bill = sum of all items`
 
-2.  **02_Electricity_Bill.cpp**
+ *  **02_Electricity_Bill.cpp**
     - Calculates electricity bill from units consumed
     - Formula: `Bill = Units * Rate per Unit`
 
-3.  **03_Marks_Calculator.cpp**
+ *  **03_Marks_Calculator.cpp**
     - Calculates total marks, average and percentage
     - Formula: `Percentage = (Obtained / Total) * 100`
 
-4.  **04_Salary_Calculator.cpp**
+ *  **04_Salary_Calculator.cpp**
     - Calculates net salary after allowances and deductions
     - Formula: `Net Salary = Basic + Allowances - Deductions`
 
-5.  **05_Petrol_Expense.cpp**
+ *  **05_Petrol_Expense.cpp**
     - Calculates monthly petrol expense for daily travel
     - Formula: `Expense = Daily Distance * Mileage * Price * 30`
 
-6.  **06_Restaurant_Bill_Sharing.cpp**
+ *  **06_Restaurant_Bill_Sharing.cpp**
     - Splits total restaurant bill among friends equally
     - Formula: `Per Person = Total Bill / No. of Persons`
 
-7.  **07_Age_Calculator.cpp**
+ *  **07_Age_Calculator.cpp**
     - Calculates current age from birth year
     - Formula: `Age = Current Year - Birth Year`
 
-8.  **08_Water_Tank_Capacity.cpp**
+ *  **08_Water_Tank_Capacity.cpp**
     - Calculates volume/capacity of water tank
     - Formula: `Volume = Length * Width * Height`
 
-9.  **09_Profit_Calculator.cpp**
+ *  **09_Profit_Calculator.cpp**
     - Calculates total profit/loss from business transaction
     - Formulas: 
       - `Cost = Purchase Price * Quantity`
       - `Revenue = Selling Price * Quantity`
       - `Profit = Revenue - Cost`
 
-10. **10_Time_Conversion.cpp**
+ * **10_Time_Conversion.cpp**
     - Converts total seconds into hours, minutes and seconds
     - Formulas:
       - `Hours = Seconds / 3600`
